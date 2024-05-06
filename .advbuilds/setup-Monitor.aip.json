@@ -1,0 +1,16 @@
+{
+  "MainExe": "Monitor.exe",
+  "ProductDetail": {
+    "ProductName": "DH.Monitor"
+  },
+  "AdvancedInstallerShortcut": {
+    "Name": "DH.Monitor",
+    "Target": "APPDIR\\Monitor.exe",
+    "InDirectories": ["DesktopFolder", "StartMenuFolder\\DHG Pharma"],
+    "PathIcon": "Logo.ico"
+  },
+  "IconInControlPanel": {
+    "IsSetIcon": true,
+    "PathIcon": "Logo.ico"
+  }
+}
