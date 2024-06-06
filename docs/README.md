@@ -5,7 +5,10 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0605.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FMonitorexe%2F32406051-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FMonitorexe%2F32406051-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FMonitorexe%2F32406051-NasDHSolutions.json)
+## 3.24.0606.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FMonitorexe%2F32406060-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FMonitorexe%2F32406060-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FMonitorexe%2F32406060-NasDHSolutions.json)
+- ✨: Cập nhật điều kiện lấy danh sách chờ và danh sách phục vụ đối với hiển thị tại quầy thuốc
+- 📕: set điều khiện chỉ load danh sách chờ và danh sách phục vụ tại quầy thuốc khi chọn phân khu từ 96 trở lên, và chọn duy nhất 1 phân khu
+## [v.3.24.0605.1]()
 - ✨: Thêm chức năng hiển thị đối với quầy thuốc
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/368
 ## [v.3.24.0605.0]()
