@@ -5,7 +5,10 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0606.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FMonitorexe%2F32406060-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FMonitorexe%2F32406060-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FMonitorexe%2F32406060-NasDHSolutions.json)
+## 3.24.0607.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FMonitorexe%2F32406070-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FMonitorexe%2F32406070-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FMonitorexe%2F32406070-NasDHSolutions.json)
+- 🐛: Fix lỗi hiển thị ra màn hình bị thiếu đơn vị 'Tuổi' phía sau số tuổi
+![](https://i.imgur.com/Dk4YPhw.png)
+## [v.3.24.0606.0]()
 - ✨: Cập nhật điều kiện lấy danh sách chờ và danh sách phục vụ đối với hiển thị tại quầy thuốc
 - 📕: set điều khiện chỉ load danh sách chờ và danh sách phục vụ tại quầy thuốc khi chọn phân khu từ 96 trở lên, và chọn duy nhất 1 phân khu
 ## [v.3.24.0605.1]()
