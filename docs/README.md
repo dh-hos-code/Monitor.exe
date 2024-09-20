@@ -5,7 +5,10 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0919.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FMonitorexe%2F32409190-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FMonitorexe%2F32409190-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FMonitorexe%2F32409190-NasDHSolutions.json)
+## 3.24.0920.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FMonitorexe%2F32409200-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FMonitorexe%2F32409200-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FMonitorexe%2F32409200-NasDHSolutions.json)
+- ✨: Mở chức năng hiển thị thông tin lên màn hình LCD Tại Quầy Tiếp nhận BV Thốt Nốt
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/649
+## [v.3.24.0919.0]()
 - ✨: Mở chức năng hiển thị thông tin lên màn hình LCD Tại Quầy Tiếp nhận BV Sa Đéc
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/648
 ## [v.3.24.0805.0]()
